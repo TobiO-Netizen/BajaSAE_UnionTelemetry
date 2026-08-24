@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.o
+*.pio/
+.pio/
+
+# Logs and captured data
+*.log
+data.csv
+TEL_*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.mat
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
